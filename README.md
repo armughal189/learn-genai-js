@@ -4,7 +4,7 @@ This repository contains all the projects I build while learning **Generative AI
 
 ---
 
-## 🚀 Setup
+## Setup
 
 1. **Install Node.js**  
    This repository is built with **Node.js v24**.
@@ -12,7 +12,6 @@ This repository contains all the projects I build while learning **Generative AI
 2. **Clone the repository**  
    ```bash
    git clone https://github.com/armughal189/learn-genai-js.git
-````
 
 3. **Navigate into the project directory**
 
